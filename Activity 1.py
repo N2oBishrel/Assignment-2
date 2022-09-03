@@ -1,2 +1,2 @@
-# outputting "Hello world!"
-print("Hello world!")
+# outputting "Hello Bishrel Tamir!"
+print("Hello Bishrel Tamir!")
